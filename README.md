@@ -1,4 +1,4 @@
-
+https://peterobanor-portfolio.netlify.app/
 Peter Obanor – Data Analyst 
 
 Welcome to my GitHub portfolio repository. This portfolio showcases my projects, technical skills, research work, and professional experience in data analysis, business analysis, and software-related solutions.
